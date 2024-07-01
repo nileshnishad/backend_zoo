@@ -1,0 +1,17 @@
+[
+    {
+      "name": "User 1",
+      "email": "user1@example.com",
+      "password": "hashed_password",
+      "role": "Superadmin",
+      "isActive": true
+    },
+    {
+      "name": "User 2",
+      "email": "user2@example.com",
+      "password": "hashed_password",
+      "role": "admin",
+      "isActive": true
+    }
+  ]
+  
