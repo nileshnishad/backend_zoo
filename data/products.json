@@ -1,7 +1,11 @@
-{
-    "name": "Example Product",
+[
+  {
+    "id": "46793746-719e-4fb3-af22-9f7170979770",
+    "productName": "Example Product",
     "description": "This is a sample product description. It highlights the key features and benefits of the product, providing a concise yet informative overview to attract potential buyers.",
     "category": "Electronics",
+    "price": 19.99,
+    "stock": 10,
     "type": "product",
     "brand": "Example Brand",
     "model": "Model ABC123",
@@ -13,13 +17,9 @@
       "dimensions": "10 x 5 x 3 inches",
       "material": "Plastic/Metal"
     },
-    "price": 19.99,
-    "currency": "USD",
-    "location": "New York, USA",
-    "area_pincode": "10001",
+    "area_pincode": "400101",
     "promo_code": "SUMMER2024",
     "vendor_code": "VENDOR123",
-    "stock": 10,
     "images": [
       {
         "url": "https://example.com/product-image1.jpg",
@@ -68,76 +68,16 @@
         "Accessory 2",
         "Accessory 3"
       ],
-      "shipping_info": {
-        "weight": "3 kg",
-        "dimensions": "12 x 8 x 6 inches",
-        "method": "Standard shipping",
-        "estimated_delivery": "3-5 business days",
-        "shipping_cost": 5.99,
-        "international_shipping": true
-      },
-      "return_policy": "30-day return policy",
-      "customer_support": {
-        "email": "support@example.com",
-        "phone": "+1-800-123-4567",
-        "hours": "9 AM - 6 PM, Mon - Fri",
-        "live_chat": true
-      },
       "manual_url": "https://example.com/manual.pdf",
       "video_tutorial_url": "https://example.com/tutorial.mp4",
       "battery_life": "10 hours",
       "compatible_software": "XYZ software version 3.0 and above"
     },
-    "reviews": [
-      {
-        "user": "John Doe",
-        "rating": 4.5,
-        "comment": "Great product, highly recommend!",
-        "date": "2024-06-25"
-      },
-      {
-        "user": "Jane Smith",
-        "rating": 4.0,
-        "comment": "Good value for money.",
-        "date": "2024-06-20"
-      },
-      {
-        "user": "Alice Johnson",
-        "rating": 5.0,
-        "comment": "Exceeded my expectations.",
-        "date": "2024-06-15"
-      }
-    ],
-    "faq": [
-      {
-        "question": "What is the battery life?",
-        "answer": "The battery life is approximately 10 hours with regular use."
-      },
-      {
-        "question": "Is this product compatible with XYZ software?",
-        "answer": "Yes, it is compatible with XYZ software version 3.0 and above."
-      },
-      {
-        "question": "Does it come with a warranty?",
-        "answer": "Yes, it comes with a 1-year limited warranty."
-      }
-    ],
-    "related_products": [
-      {
-        "name": "Related Product 1",
-        "price": 14.99,
-        "url": "https://example.com/related-product1"
-      },
-      {
-        "name": "Related Product 2",
-        "price": 29.99,
-        "url": "https://example.com/related-product2"
-      }
-    ],
+    "estimated_delivery": "2-3 business hr",
     "tags": [
       "electronics",
       "gadgets",
       "accessories"
     ]
   }
-  
+]

@@ -1,17 +1,16 @@
 [
-    {
-      "name": "User 1",
-      "email": "user1@example.com",
-      "password": "hashed_password",
-      "role": "Superadmin",
-      "isActive": true
-    },
-    {
-      "name": "User 2",
-      "email": "user2@example.com",
-      "password": "hashed_password",
-      "role": "admin",
-      "isActive": true
-    }
-  ]
-  
+  {
+    "id": "b2051d04-0860-4244-9f28-5225025e9ce1",
+    "name": "Nilesh Rajendra Nishad",
+    "email": "nilesh@gmail.com",
+    "password": "$2a$10$Frfzzvisr.lDcO2HLngnluhsJad8WW1sbe4ZyhMafLwz3UgWtUVXy",
+    "role": "user"
+  },
+  {
+    "id": "577f4a4e-162f-4c74-a307-d8ddd6219be4",
+    "name": "Nilesh Nishad",
+    "email": "nileshnishad@gmail.com",
+    "password": "$2a$10$i.7X7yZ76.i/oLKzm0eiQO3x/EhcEw5V0SvUl0DpSFi/.QUhflAbe",
+    "role": "admin"
+  }
+]

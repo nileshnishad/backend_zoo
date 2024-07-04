@@ -1,0 +1,42 @@
+[
+  {
+    "id": "b2051d04-0860-4244-9f28-5225025e9ce1",
+    "fullname": "Nilesh Rajendra Nishad",
+    "address": "shiv hsakti chawl hanuman nagar kandivali east mumbai",
+    "mobileNumber": "8652127909",
+    "pinCode": "400101",
+    "shopCategory": "Electronics",
+    "shopName": "Top Ten",
+    "telephone": "080-98765432",
+    "customerSupportEmail": "support@updateexample.com",
+    "shopLogo": "https://example.com/updatedlogo.png",
+    "deliveryTimer": {
+      "start": "10:00 AM",
+      "end": "07:00 PM"
+    },
+    "gstLicenseNumber": "GSTIN987654321",
+    "licenseNumber": "LIC54321",
+    "role": "Admin",
+    "isActive": true
+  },
+  {
+    "id": "577f4a4e-162f-4c74-a307-d8ddd6219be4",
+    "fullname": "Jane Smith",
+    "address": "456 Oak Avenue",
+    "mobileNumber": "9998887776",
+    "pinCode": "400001",
+    "shopCategory": "Clothing",
+    "shopName": "Smith's Fashion",
+    "telephone": "022-98765432",
+    "customerSupportEmail": "help@smithsfashion.com",
+    "shopLogo": "https://smithsfashion.com/logo.png",
+    "deliveryTimer": {
+      "start": "10:00 AM",
+      "end": "07:00 PM"
+    },
+    "gstLicenseNumber": "GSTIN987654321",
+    "licenseNumber": "LIC54321",
+    "role": "Admin",
+    "isActive": true
+  }
+]
